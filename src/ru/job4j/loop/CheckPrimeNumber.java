@@ -7,6 +7,6 @@ public class CheckPrimeNumber {
                 return false;
             }
         }
-        return number != 1;
+        return number > 1;
     }
 }
