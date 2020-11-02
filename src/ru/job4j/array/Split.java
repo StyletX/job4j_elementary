@@ -14,7 +14,6 @@ public class Split {
                 i++;
             }
         }
-
         return Arrays.copyOf(result, i);
     }
 }

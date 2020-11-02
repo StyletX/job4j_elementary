@@ -14,13 +14,11 @@ public class Merge {
             }
             k++;
         }
-
         while (i < left.length) {
             rsl[k] = left[i];
             i++;
             k++;
         }
-
         while (j < right.length) {
             rsl[k] = right[j];
             j++;

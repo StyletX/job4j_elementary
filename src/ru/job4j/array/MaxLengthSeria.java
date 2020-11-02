@@ -23,12 +23,4 @@ public class MaxLengthSeria {
         }
         return k;
     }
-
-/*    public static void main(String[] args) {
-        System.out.println(find(new int[] {1}));
-        System.out.println(find(new int[] {2, 1}));
-        System.out.println(find(new int[] {1, 2}));
-        System.out.println(find(new int[] {1, 2, 0, 1, 2, 3}));
-
-    }*/
 }
